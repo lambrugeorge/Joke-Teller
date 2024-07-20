@@ -6,6 +6,7 @@ A simple joke generator project that uses the [JokeAPI](https://jokeapi.dev) to 
 
 You can access the live version of the project here: [Joke Teller Live](https://lambrugeorge.github.io/Joke-Teller/)
 
+![Screenshot](1.png)
 ## Technologies Used 🛠️
 
 - HTML5
